@@ -45,10 +45,10 @@ I also keep a lot of explorations, forks, and spikes around:
 ## Stats
 
 <a href="https://github.com/victor-teles">
-	<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=victor-teles&show_icons=true&hide_title=true&hide_rank=false" />
+	<img height="165" alt="GitHub stats" src="https://gh-stats.work/api?username=victor-teles&show_icons=true&hide_title=true&hide_rank=false" />
 </a>
 <a href="https://github.com/victor-teles">
-	<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-teles&layout=compact" />
+	<img height="165" alt="Top languages" src="https://gh-stats.work/api/top-langs/?username=victor-teles&layout=compact" />
 </a>
 
 ## Get in touch
