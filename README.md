@@ -1,7 +1,7 @@
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset=".github/banner-dark.webp" />
-	<img alt="copilot-claude-proxy" src=".github/banner.webp" />
+	<img alt="copilot-claude-proxy" src=".github/banner.webp" style="border-radius:50%;" />
 </picture>
 
 ---
