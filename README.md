@@ -1,4 +1,10 @@
 
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset=".github/banner-dark.webp" />
+	<img alt="copilot-claude-proxy" src=".github/banner.webp" />
+</picture>
+
+
 # Victor Mesquita (victor-teles)
 
 Team leader & open-source enthusiast based in Brazil. I build developer tools, automation, and products around modern web stacks.
