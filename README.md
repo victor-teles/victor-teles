@@ -4,6 +4,8 @@
 	<img alt="copilot-claude-proxy" src=".github/banner.webp" />
 </picture>
 
+---
+
 Team leader & open-source enthusiast based in Brazil. I build developer tools, automation, and products around modern web stacks.
 
 [![Website](https://img.shields.io/badge/Website-victormesquita.dev-0ea5e9?style=flat&logo=googlechrome&logoColor=white)](https://victormesquita.dev)
