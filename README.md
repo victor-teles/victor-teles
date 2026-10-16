@@ -1,63 +1,58 @@
-
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset=".github/banner-dark.webp" />
-	<img alt="copilot-claude-proxy" src=".github/banner.webp" style="border-radius:50%;" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/poster-dark.svg">
+  <img alt="Victor Teles — team leader &amp; open-source enthusiast based in Brazil. I build developer tools, automation, and products around modern web stacks." src="assets/poster-light.svg" width="100%">
 </picture>
 
----
+<br><br>
 
-Team leader & open-source enthusiast based in Brazil. I build developer tools, automation, and products around modern web stacks.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/label-01-dark.svg">
+  <img alt="Featured projects" src="assets/label-01-light.svg" width="100%">
+</picture>
 
-[![Website](https://img.shields.io/badge/Website-victormesquita.dev-0ea5e9?style=flat&logo=googlechrome&logoColor=white)](https://victormesquita.dev)
-[![X](https://img.shields.io/badge/X-@engineerdesoft-111827?style=flat&logo=x&logoColor=white)](https://x.com/engineerdesoft)
-[![GitHub](https://img.shields.io/badge/GitHub-@victor--teles-1f2937?style=flat&logo=github&logoColor=white)](https://github.com/victor-teles)
+<p>
+<a href="https://github.com/victor-teles/playwright-php"><img alt="playwright-php — A Playwright bridge for PHP (PHP)" src="assets/row-playwright-php.svg" width="100%"></a>
+<a href="https://github.com/victor-teles/copilot-claude-proxy"><img alt="copilot-claude-proxy — Make GitHub Copilot compatible with Anthropic API (TypeScript)" src="assets/row-copilot-claude-proxy.svg" width="100%"></a>
+<a href="https://github.com/victor-teles/mcpbr"><img alt="mcpbr — Directory of MCPs for Brazilian APIs/services (TypeScript)" src="assets/row-mcpbr.svg" width="100%"></a>
+<a href="https://github.com/victor-teles/pix.js"><img alt="pix.js — Packages for working with Pix and Dict API (TypeScript)" src="assets/row-pix.js.svg" width="100%"></a>
+<a href="https://github.com/victor-teles/AspNetCore.Pulse"><img alt="AspNetCore.Pulse — ASP.NET Core HealthChecks packages (C#)" src="assets/row-AspNetCore.Pulse.svg" width="100%"></a>
+<a href="https://github.com/victor-teles/victormesquita.dev"><img alt="victormesquita.dev — My personal tech blog (TypeScript)" src="assets/row-victormesquita.dev.svg" width="100%"></a>
+</p>
 
-## What I’m focused on
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/label-02-dark.svg">
+  <img alt="What I’m focused on" src="assets/label-02-light.svg" width="100%">
+</picture>
 
 - AI-assisted developer tooling (Copilot, MCPs, “developer experience” automation)
 - Web automation and testing
 - Fast systems (Rust) and pragmatic backends
 
-## Featured projects
+<br>
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [copilot-claude-proxy](https://github.com/victor-teles/copilot-claude-proxy) | Make GitHub Copilot compatible with Anthropic API | TypeScript |
-| [playwright-php](https://github.com/victor-teles/playwright-php) | A Playwright bridge for PHP | PHP |
-| [mcpbr](https://github.com/victor-teles/mcpbr) | Directory of MCPs for Brazilian APIs/services | TypeScript |
-| [pix.js](https://github.com/victor-teles/pix.js) | Packages for working with Pix and Dict API | TypeScript |
-| [AspNetCore.Pulse](https://github.com/victor-teles/AspNetCore.Pulse) | ASP.NET Core HealthChecks packages | C# |
-| [victormesquita.dev](https://github.com/victor-teles/victormesquita.dev) | My personal tech blog | TypeScript |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/label-03-dark.svg">
+  <img alt="Tech I use" src="assets/label-03-light.svg" width="100%">
+</picture>
 
-## Tech I use
+TypeScript&ensp;/&ensp;Node.js&ensp;/&ensp;Rust&ensp;/&ensp;Python&ensp;/&ensp;PHP&ensp;/&ensp;.NET&ensp;/&ensp;PostgreSQL
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+<br>
 
-## Notes & experiments
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/label-04-dark.svg">
+  <img alt="Notes &amp; experiments" src="assets/label-04-light.svg" width="100%">
+</picture>
 
-I also keep a lot of explorations, forks, and spikes around:
+I also keep a lot of explorations, forks, and spikes around: Solana tooling (Rust/TypeScript), UI kits and design systems (Next.js/TypeScript), and DevOps/self-hosting experiments.
 
-- Solana tooling (Rust/TypeScript)
-- UI kits and design systems (Next.js/TypeScript)
-- DevOps/self-hosting experiments
+<br>
 
-## Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/label-05-dark.svg">
+  <img alt="Get in touch" src="assets/label-05-light.svg" width="100%">
+</picture>
 
-<a href="https://github.com/victor-teles">
-	<img height="165" alt="GitHub stats" src="https://gh-stats.work/api?username=victor-teles&show_icons=true&hide_title=true&hide_rank=false" />
-</a>
-<a href="https://github.com/victor-teles">
-	<img height="165" alt="Top languages" src="https://gh-stats.work/api/top-langs/?username=victor-teles&layout=compact" />
-</a>
-
-## Get in touch
-
-- Blog: https://victormesquita.dev
-- X: https://x.com/engineerdesoft
-
+[victormesquita.dev](https://victormesquita.dev)&emsp;[x.com/engineerdesoft](https://x.com/engineerdesoft)
